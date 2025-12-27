@@ -12,7 +12,7 @@
     margin: 0 auto;
   }
   
-  /* Верхняя часть */
+
   .top-bar {
     display: flex;
     justify-content: space-between;
@@ -43,7 +43,7 @@
     padding: 8px 15px;
   }
   
-  /* Меню */
+
   .main-menu {
     display: flex;
     justify-content: space-between;
@@ -64,7 +64,6 @@
     text-decoration: underline;
   }
   
-  /* Большой заголовок */
   .main-header {
     background-color: #2c3e50;
     color: white;
@@ -101,7 +100,6 @@
     color: #2c3e50;
   }
   
-  /* Основное содержимое */
   .content {
     display: flex;
     gap: 40px;
@@ -112,7 +110,6 @@
     width: 50%;
   }
   
-  /* Карточки */
   .card {
     background-color: white;
     padding: 20px;
@@ -156,8 +153,7 @@
     display: inline-block;
     margin-top: 10px;
   }
-  
-  /* Команда */
+ 
   .team-member {
     display: flex;
     gap: 15px;
@@ -185,7 +181,7 @@
     margin-bottom: 8px;
   }
   
-  /* Футер */
+ 
   footer {
     background-color: #2c3e50;
     color: white;
@@ -248,3 +244,4 @@
   .footer-bottom .logo {
     color: white;
   }
+
